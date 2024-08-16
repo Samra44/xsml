@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<Aptech>
+    <Student>
+    <Enorolleded>100</Enorolleded>
+    <Name>John</Name>
+    <Gender>Male</Gender>
+    <Age>27</Age>
+    <Email>John@gmail.com</Email>
+    <Phonenumber>0345-67892034</Phonenumber>
+    </Student>
+
+    <Student>
+        <Enorolleded>100</Enorolleded>
+        <Name>willam</Name>
+        <Gender>Male</Gender>
+        <Age>28</Age>
+        <Email>William@gmail.com</Email>
+        <Phonenumber>0345-67892034</Phonenumber>
+        </Student>
+
+        <Student>
+            <Enorolleded>100</Enorolleded>
+            <Name>Emily</Name>
+            <Gender>Female</Gender>
+            <Age>20</Age>
+            <Email>Emily@gmail.com</Email>
+            <Phonenumber>0345-67892034</Phonenumber>
+            </Student>

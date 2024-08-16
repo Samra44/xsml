@@ -1,0 +1,21 @@
+/* Car{
+    background-color: aqua;
+}
+vehicle{
+    font-size: 34px;
+} */
+
+last{
+    background-color: rgb(213, 178, 247);
+}
+First{
+    font-weight: bold;
+    font-size: 40px;
+}
+Student{
+    margin-top: 20px;
+    border: solid 2px black;
+    background-color: rgb(223, 164, 235);
+    text-align: center;
+
+}

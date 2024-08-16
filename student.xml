@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+
+<S:Student xmlns:S= "http://www.spectrafocus.com/Student/">
+<S:First>John</S:First>
+<S:Last>Dewey</S:Last>
+<S:title>Student</S:title>
+</S:Student>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+
+<Car>
+  <vehicle>
+    <Menufacture>BMW</Menufacture>
+    <Model>M3</Model>
+    <Color>Metallic Sliver</Color>
+    <Price>40,000</Price>
+    <Location>Liverpool</Location>
+ </vehicle>
+ <vehicle>
+    <Menufacture>TOYOTO</Menufacture>
+    <Model>INNOVA</Model>
+    <Color>Gray</Color>
+    <Price>38,000</Price>
+    <Location>California</Location>
+  </vehicle>
+</Car>
